@@ -1,0 +1,5 @@
+﻿📌Ignore Unwanted Files
+__pycache__/
+*.sqlite3
+*.db
+.env

@@ -1,0 +1,7 @@
+﻿📌Install Dependencies
+–streamlit
+–mysql-connector-python
+
+
+📌 Run this command to install everything:
+pip install -r requirements.txt
